@@ -5,4 +5,4 @@ and React. I've recently begun gravitating back towards low-level languages like
 my own website and some small minecraft servers for friends on local machines. 
  - Ultimately, I aim to develop audio plugins so  I can further customize and improve my musical workflow, although 
 I'm also keen on other projects like user-friendly clientside tools for social media. 
-- If you're curious, you can check out my soundcloud at https://soundcloud.com/jxstkidding !!!
+- If you're curious, you can check out my soundcloud at https://soundcloud.com/jxstkidding !!! I'm also easiest to reach through twitter.
